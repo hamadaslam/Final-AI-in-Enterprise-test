@@ -1,33 +1,33 @@
-# Final-AI-in-Enterprise-test
-Final test code
+# Final-AI-in-Enterprise-test--
+Final test code--
 
-About the project:
-    This is a ML project to classify the type of fish based on the input features. this was hosted in heroku
+About the project:--
+    This is a ML project to classify the type of fish based on the input features. this was hosted in heroku--
     
-Build with:
-    PYTHON
-    FLASK
-    HTML
-    CSS
-    RANDOM FOREST ALGORITHM
+Build with:--
+    PYTHON,--
+    FLASK,--
+    HTML,--
+    CSS,--
+    RANDOM FOREST ALGORITHM...--
     
- PRE-REQUISITE
-        HEROKU ACCOUNT
-        GIT HUB ACCOUNT
-        and use requirements file to install dependent libraries
+ PRE-REQUISITE--
+        HEROKU ACCOUNT,--
+        GIT HUB ACCOUNT,
+        and use requirements file to install dependent libraries.
         
  Usage:
-        can be used to determine or classify the type of fish
+        can be used to determine or classify the type of fish,
         
 License
-        GPL-3
+        GPL-3,
         
 Contact:
-        1hamadaslam@gmail.com
-        +1 289-991-0654
+        1hamadaslam@gmail.com,
+        +1 289-991-0654,
         
 Acknowledgments
-        Professor Noopa jagdish
+        Professor Noopa jagdish,
         
-URL for the live project
+URL for the live project,
         https://final-test-ai-enterprise.herokuapp.com/
